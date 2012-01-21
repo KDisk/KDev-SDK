@@ -1,0 +1,4 @@
+#!/bin/bash
+gnome-terminal --title "KDev SDK" --geometry 105x60 -e "bash ~/KDev-SDK/kdev-bin/menu_main ; sleep 5"
+sleep 5
+exit
